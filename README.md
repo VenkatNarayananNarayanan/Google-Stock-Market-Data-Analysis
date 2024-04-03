@@ -1,7 +1,9 @@
 Unveiling 20 Years of Google's Stock Journey: A Descriptive Analysis (Aug 2004 - Mar 2024)
 
 Dataset name: Google Stock Market Data [20 years]
+
 Data source link(kaggle): https://www.kaggle.com/datasets/coderpanda010/google-stock-data-20-years
+
 About the dataset: 
 This dataset contains historical stock market data obtained from Yahoo Finance using the yfinance Python library. The dataset spans a specific time period 
 and includes seven key columns: Date, Open, High, Low, close, Adjusted Close, and Volume.
