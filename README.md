@@ -28,6 +28,8 @@ Volume: The total number of shares traded during the trading day.
 Disclaimer:
 This dataset is provided for educational and research purposes only. The accuracy and completeness of the data are not guaranteed.
 
+Tools used: Microsoft Excel and Jupyter Notebook.
+
 This project dives into a descriptive analysis of Google's stock price movements over the past two decades, specifically from August 19th, 2004, to March 28th, 2024.
 Are you invested in Google? If so, you might be happy to know that Google's stock price has been on a tear over the past 20 years!  
 According to this chart, the stock price has gone from a mere $2.39 in August 2004 to a whopping $155.20 in January 2024. That's an incredible increase of over 6,400%!
