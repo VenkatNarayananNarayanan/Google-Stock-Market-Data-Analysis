@@ -9,13 +9,20 @@ This dataset contains historical stock market data obtained from Yahoo Finance u
 and includes seven key columns: Date, Open, High, Low, close, Adjusted Close, and Volume.
 
 Columns:
+
 Date: The date of the trading day.
+
 Open: The opening price of the stock on the given trading day.
+
 High: The highest price reached by the stock during the trading day.
+
 Low: The lowest price reached by the stock during the trading day.
+
 Close: The closing price of the stock on that trading day.
+
 Adjusted Close: The adjusted closing price of the stock, which accounts for any corporate actions such as
 dividends, stock splits, or mergers.
+
 Volume: The total number of shares traded during the trading day.
 
 Disclaimer:
@@ -28,7 +35,9 @@ According to this chart, the stock price has gone from a mere $2.39 in August 20
 Analysis reveals:
 
 1. Long-Term Uptrend: The dominant trend suggests Google's stock price has generally increased over this 20-year period, despite periods of volatility.
+
 2. Price Fluctuations: The chart highlights the dynamic nature of the stock market, showcasing significant price swings throughout this timeframe.
+   
 3. Volume and Price Relationship: While not always a perfect correlation, there are instances where high trading volume coincides with price movements.
 
 Of course, past performance is no guarantee of future results, but this chart is a great reminder of the potential for long-term growth in the stock market.
