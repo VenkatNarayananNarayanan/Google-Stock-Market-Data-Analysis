@@ -32,7 +32,7 @@ This project dives into a descriptive analysis of Google's stock price movements
 Are you invested in Google? If so, you might be happy to know that Google's stock price has been on a tear over the past 20 years!  
 According to this chart, the stock price has gone from a mere $2.39 in August 2004 to a whopping $155.20 in January 2024. That's an incredible increase of over 6,400%!
 
-Analysis reveals:
+Analysis reveals: 
 
 1. Long-Term Uptrend: The dominant trend suggests Google's stock price has generally increased over this 20-year period, despite periods of volatility.
 
